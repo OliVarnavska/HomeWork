@@ -1,0 +1,15 @@
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\bin\Debug\net6.0\Exercise02.exe
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\bin\Debug\net6.0\Exercise02.deps.json
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\bin\Debug\net6.0\Exercise02.runtimeconfig.json
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\bin\Debug\net6.0\Exercise02.dll
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\bin\Debug\net6.0\Exercise02.pdb
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\Exercise02.csproj.AssemblyReference.cache
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\Exercise02.AssemblyInfoInputs.cache
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\Exercise02.AssemblyInfo.cs
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\Exercise02.csproj.CoreCompileInputs.cache
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\Exercise02.dll
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\refint\Exercise02.dll
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\Exercise02.pdb
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\Exercise02.genruntimeconfig.cache
+E:\GeekBrains\HomeWork\HomeWork\Exercise02\obj\Debug\net6.0\ref\Exercise02.dll
